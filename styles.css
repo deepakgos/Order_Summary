@@ -24,7 +24,3 @@ body{
     font-weight: 900;
     font-size: 32px;
 }
-.heroimage {
-    width: 100%;
-    background-color: var(--dark-blue);
-}
