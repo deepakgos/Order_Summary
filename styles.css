@@ -26,4 +26,5 @@ body{
 }
 .heroimage {
     width: 100%;
+    background-color: var(--dark-blue);
 }
